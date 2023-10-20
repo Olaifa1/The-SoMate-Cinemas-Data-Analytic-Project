@@ -1,0 +1,817 @@
+MovieID	original_language	original_title	popularity	title	vote_average	vote_count	 budget 	 revenue 	Profit
+862	en	Toy Story	22	Toy Story	7.7	5415	30000000	373554033	343554033
+8844	en	Jumanji	17	Jumanji	6.9	2413	65000000	262797249	197797249
+15602	en	Grumpier Old Men	12	Grumpier Old Men	6.5	92	0	0	0
+31357	en	Waiting to Exhale	4	Waiting to Exhale	6.1	34	16000000	81452156	65452156
+11862	en	Father of the Bride Part II	8	Father of the Bride Part II	5.7	173	0	76578911	76578911
+949	en	Heat	18	Heat	7.7	1886	60000000	187436818	127436818
+9091	en	Sudden Death	5	Sudden Death	5.5	174	35000000	64350171	29350171
+11860	en	Sabrina	7	Sabrina	6.2	141	58000000	0	-58000000
+710	en	GoldenEye	15	GoldenEye	6.6	1194	58000000	352194034	294194034
+9087	en	The American President	6	The American President	6.5	199	62000000	107879496	45879496
+21032	en	Balto	12	Balto	7.1	423	0	11348324	11348324
+45325	en	Tom and Huck	3	Tom and Huck	5.4	45	0	0	0
+10858	en	Nixon	5	Nixon	7.1	72	44000000	13681765	-30318235
+1408	en	Cutthroat Island	7	Cutthroat Island	5.7	137	98000000	10017322	-87982678
+524	en	Casino	10	Casino	7.8	1343	52000000	116112375	64112375
+4584	en	Sense and Sensibility	11	Sense and Sensibility	7.2	364	16500000	135000000	118500000
+5	en	Four Rooms	9	Four Rooms	6.5	539	4000000	4300000	300000
+12110	en	Dracula: Dead and Loving It	5	Dracula: Dead and Loving It	5.7	210	0	0	0
+9273	en	Ace Ventura: When Nature Calls	8	Ace Ventura: When Nature Calls	6.1	1128	30000000	212385533	182385533
+11517	en	Money Train	7	Money Train	5.4	224	60000000	35431113	-24568887
+8012	en	Get Shorty	13	Get Shorty	6.4	305	30250000	115101622	84851622
+9691	en	Assassins	11	Assassins	6	394	50000000	30303072	-19696928
+451	en	Leaving Las Vegas	10	Leaving Las Vegas	7.1	365	3600000	49800000	46200000
+9263	en	Now and Then	9	Now and Then	6.6	91	12000000	27400000	15400000
+902	fr	La Cit  des Enfants Perdus	10	The City of Lost Children	7.6	308	18000000	1738611	-16261389
+9909	en	Dangerous Minds	9	Dangerous Minds	6.4	249	0	180000000	180000000
+63	en	Twelve Monkeys	12	Twelve Monkeys	7.4	2470	29500000	168840000	139340000
+9598	en	Babe	14	Babe	6	756	30000000	254134910	224134910
+687	en	Dead Man Walking	7	Dead Man Walking	7.3	350	11000000	39363635	28363635
+34615	en	"Cry, the Beloved Country"	1	"Cry, the Beloved Country"	6.7	13	0	676525	676525
+1710	en	Copycat	11	Copycat	6.5	199	0	0	0
+9312	en	Mortal Kombat	11	Mortal Kombat	5.4	452	18000000	122195920	104195920
+577	en	To Die For	10	To Die For	6.7	177	20000000	21284514	1284514
+11861	en	How To Make An American Quilt	4	How To Make An American Quilt	6.5	38	10000000	23574130	13574130
+12665	en	Powder	12	Powder	6.3	143	0	0	0
+807	en	Se7en	18	Se7en	8.1	5915	33000000	327311859	294311859
+9603	en	Clueless	10	Clueless	6.9	828	12000000	0	-12000000
+10530	en	Pocahontas	13	Pocahontas	6.7	1509	55000000	346079773	291079773
+11443	en	Dead Presidents	10	Dead Presidents	6.6	80	10000000	0	-10000000
+629	en	The Usual Suspects	16	The Usual Suspects	8.1	3334	6000000	23341568	17341568
+16420	en	Othello	2	Othello	7	33	0	0	0
+11448	en	Mighty Aphrodite	16	Mighty Aphrodite	6.7	145	15000000	6700000	-8300000
+35196	en	Restoration	11	Restoration	6.3	30	19000000	0	-19000000
+9089	en	Home for the Holidays	8	Home for the Holidays	6.3	39	0	17519169	17519169
+2054	en	Mr. Holland's Opus	7	Mr. Holland's Opus	6.9	115	0	106269971	106269971
+17015	en	Persuasion	2	Persuasion	7.4	36	0	0	0
+11525	en	Lawnmower Man 2: Beyond Cyberspace	2	Lawnmower Man 2: Beyond Cyberspace	2.8	32	0	2409225	2409225
+10634	en	Friday	15	Friday	7	513	3500000	28215918	24715918
+755	en	From Dusk Till Dawn	15	From Dusk Till Dawn	6.9	1644	19000000	25836616	6836616
+37557	zh	?????????	1	Shanghai Triad	6.5	17	0	0	0
+11859	en	Fair Game	6	Fair Game	4.1	54	50000000	11534477	-38465523
+28387	en	Kicking and Screaming	3	Kicking and Screaming	7	36	0	718490	718490
+20927	en	Bed of Roses	10	Bed of Roses	5.1	27	0	19030691	19030691
+36929	en	Big Bully	3	Big Bully	3.9	16	15000000	2042530	-12957470
+9102	en	Screamers	13	Screamers	6.1	154	20000000	5781885	-14218115
+78802	fr	"Guillaumet, les ailes du courage"	1	Wings of Courage	6.8	4	0	0	0
+400	en	Things to Do in Denver When You're Dead	4	Things to Do in Denver When You're Dead	6.7	87	8000000	529766	-7470234
+10534	en	White Squall	10	White Squall	6.3	86	38000000	10300000	-27700000
+11359	en	The Indian in the Cupboard	11	The Indian in the Cupboard	5.9	136	45000000	0	-45000000
+13997	en	Black Sheep	9	Black Sheep	6	124	0	32	32
+47018	en	Carrington	1	Carrington	6.4	16	0	0	0
+2086	en	Nick of Time	7	Nick of Time	6.1	190	8169363	8175346	5983
+17182	en	Eye for an Eye	5	Eye for an Eye	5.8	65	20000000	0	-20000000
+9095	en	Mary Reilly	13	Mary Reilly	5.7	77	47000000	12379402	-34620598
+9536	en	Bio-Dome	6	Bio-Dome	4.4	110	15000000	0	-15000000
+12158	en	Vampire in Brooklyn	9	Vampire in Brooklyn	4.5	113	14000000	19800000	5800000
+139405	en	Across the Sea of Time	0	Across the Sea of Time	3.5	2	0	0	0
+9208	en	Broken Arrow	15	Broken Arrow	5.7	459	50000000	150270147	100270147
+13685	en	Bottle Rocket	7	Bottle Rocket	6.8	285	7000000	560069	-6439931
+33689	en	It Takes Two	8	It Takes Two	6.1	149	0	0	0
+9614	en	Happy Gilmore	10	Happy Gilmore	6.5	767	12000000	41205099	29205099
+688	en	The Bridges of Madison County	6	The Bridges of Madison County	7.3	397	24000000	182016617	158016617
+10874	en	Muppet Treasure Island	7	Muppet Treasure Island	6.5	93	0	34327391	34327391
+197	en	Braveheart	21	Braveheart	7.7	3404	72000000	210000000	138000000
+103	en	Taxi Driver	14	Taxi Driver	8.1	2632	1300000	28262574	26962574
+31174	en	Richard III	5	Richard III	6.9	50	0	0	0
+33542	cn	???	12	Rumble in the Bronx	6.5	245	7500000	32392047	24892047
+51352	en	Anne Frank Remembered	0	Anne Frank Remembered	7.3	4	0	1	1
+9623	en	The Juror	6	The Juror	5.5	91	44000000	0	-44000000
+78406	en	Steal Big Steal Little	2	Steal Big Steal Little	5.1	7	25000000	6278139	-18721861
+11066	en	Boomerang	7	Boomerang	5.4	139	40000000	70100000	30100000
+880	nl	Antonia	2	Antonia's Line	7.2	26	900000	0	-900000
+2074	en	Flirting with Disaster	6	Flirting with Disaster	6.3	66	7000000	14702438	7702438
+11863	en	Jade	11	Jade	5.1	45	50000000	9851610	-40148390
+17414	en	Dunston Checks In	5	Dunston Checks In	5.1	59	16000000	0	-16000000
+5757	en	Man of the Year	1	Man of the Year	3.8	2	0	209935	209935
+11000	en	The Birdcage	6	The Birdcage	6.7	303	31000000	185260553	154260553
+9737	en	Bad Boys	9	Bad Boys	6.5	1729	19000000	141407024	122407024
+8391	en	When Night Is Falling	3	When Night Is Falling	5.9	10	0	0	0
+22279	en	An Awfully Big Adventure	1	An Awfully Big Adventure	6	11	4000000	851545	-3148455
+568	en	Apollo 13	19	Apollo 13	7.3	1637	52000000	355237933	303237933
+11780	en	Rob Roy	10	Rob Roy	6.5	151	28000000	31596911	3596911
+117164	en	Guardian Angel	1	Guardian Angel	6.3	3	0	0	0
+414	en	Batman Forever	13	Batman Forever	5.2	1529	100000000	336529144	236529144
+406	fr	La Haine	12	La Haine	7.9	695	3000000	0	-3000000
+5894	en	Blue in the Face	12	Blue in the Face	6.8	28	2000000	1275000	-725000
+1775	en	Canadian Bacon	5	Canadian Bacon	5.9	57	11000000	178104	-10821896
+49133	it	Lamerica	1	Lamerica	7.7	11	0	0	0
+8839	en	Casper	13	Casper	6	1045	50000000	287928194	237928194
+2045	en	Unforgettable	2	Unforgettable	5.3	22	18000000	0	-18000000
+20649	en	Clockers	5	Clockers	6.8	69	25000000	13071518	-11928482
+26441	en	The Big Green	6	The Big Green	5.2	41	0	0	0
+10329	en	Congo	7	Congo	5	214	50000000	152022101	102022101
+8963	en	Crimson Tide	9	Crimson Tide	7	508	53000000	157387195	104387195
+97406	en	Georgia	4	Georgia	6.1	15	0	0	0
+26564	en	Crumb	4	Crumb	7.6	71	0	3174695	3174695
+8068	en	Desperado	7	Desperado	6.8	898	7000000	25405445	18405445
+124057	en	Kids of the Round Table	0	Kids of the Round Table	3	1	0	0	0
+8512	en	Devil in a Blue Dress	5	Devil in a Blue Dress	6.3	88	27000000	16140822	-10859178
+1572	en	Die Hard: With a Vengeance	15	Die Hard: With a Vengeance	6.9	2094	90000000	366101666	276101666
+6520	en	First Knight	15	First Knight	5.9	319	55000000	127600435	72600435
+10428	en	Hackers	15	Hackers	6.2	406	20000000	7563728	-12436272
+11010	it	Il postino	10	The Postman	7.6	181	0	0	0
+9886	en	Johnny Mnemonic	12	Johnny Mnemonic	5.5	380	25000000	19075720	-5924280
+9482	en	Judge Dredd	8	Judge Dredd	5.4	643	90000000	113493481	23493481
+99040	fr	Le confessionnal	0	The Confessional	6.5	2	0	0	0
+19326	en	Jury Duty	4	Jury Duty	4	34	0	17014653	17014653
+43566	en	Before and After	3	Before and After	5.8	37	35000000	0	-35000000
+9344	en	Kids	5	Kids	6.8	280	1500000	7412216	5912216
+43612	en	Le Bonheur est dans le pr 	1	Happiness Is in the Field	7	23	13365000	0	-13365000
+9071	en	Living in Oblivion	10	Living in Oblivion	7.2	64	500000	1148752	648752
+47608	en	Mad Love	3	Mad Love	5.5	27	0	15453274	15453274
+2293	en	Mallrats	8	Mallrats	6.8	400	6000000	2122561	-3877439
+9070	en	Mighty Morphin Power Rangers: The Movie	7	Mighty Morphin Power Rangers: The Movie	5.2	153	15000000	66000000	51000000
+10607	en	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	12	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	6.2	192	0	0	0
+48787	en	Mute Witness	2	Mute Witness	6.4	36	2	1	-1
+1642	en	The Net	13	The Net	5.6	359	22000000	110627965	88627965
+19760	en	Two If by Sea	2	Two If by Sea	4.5	14	0	0	0
+11472	en	Nine Months	8	Nine Months	5.5	171	0	69660733	69660733
+27793	en	The NeverEnding Story III	6	The Neverending Story III: Escape from Fantasia	4.4	105	17000000	0	-17000000
+36196	en	Party Girl	1	Party Girl	5.8	14	150000	472370	322370
+11980	en	The Prophecy	10	The Prophecy	6.4	139	8	16	8
+10533	en	The Scarlet Letter	7	The Scarlet Letter	5.5	111	50000000	10382407	-39617593
+9302	en	Up Close & Personal	3	Up Close & Personal	5.9	51	60000000	0	-60000000
+10802	en	Showgirls	18	Showgirls	4.9	261	45000000	20350754	-24649246
+40628	en	Two Bits	4	Two Bits	5.4	11	0	0	0
+10149	en	Smoke	6	Smoke	7.2	115	7000000	8349430	1349430
+18402	en	Something to Talk About	4	Something to Talk About	5.7	60	0	50892160	50892160
+4482	fr	Gazon maudit	3	French Twist	6	43	0	0	0
+9348	en	Species	13	Species	5.5	457	35000000	113374103	78374103
+281	en	Strange Days	11	Strange Days	6.8	334	42000000	7959291	-34040709
+79593	en	The Tie That Binds	2	The Tie That Binds	4.6	9	14000000	5780000	-8220000
+47939	en	Three Wishes	11	Three Wishes	6.1	18	0	7025496	7025496
+36834	en	Total Eclipse	5	Total Eclipse	6.5	112	0	339889	339889
+9090	en	"To Wong Foo, Thanks for Everything! Julie Newmar"	8	"To Wong Foo, Thanks for Everything! Julie Newmar"	6.3	117	0	47774193	47774193
+3512	en	Under Siege 2: Dark Territory	7	Under Siege 2: Dark Territory	5.6	217	60000000	104324083	44324083
+48750	fr	Les mis rables	1	Les Miserables	6.6	8	0	0	0
+9560	en	A Walk in the Clouds	10	A Walk in the Clouds	6.5	168	20000000	50012507	30012507
+9804	en	Waterworld	17	Waterworld	5.9	1017	175000000	264218220	89218220
+50797	ru	?????????? ???????	2	Burnt by the Sun	6.7	35	2800000	2616503	-183497
+19155	en	Before the Rain	4	Before the Rain	7.7	45	0	763847	763847
+76	en	Before Sunrise	11	Before Sunrise	7.7	984	2500000	5535405	3035405
+11017	en	Billy Madison	7	Billy Madison	6.2	464	10000000	26488734	16488734
+124626	en	Nico Icon	0	Nico Icon	7.3	3	0	0	0
+9382	en	Boys on the Side	3	Boys on the Side	6.3	48	21000000	23450000	2450000
+2292	en	Clerks	11	Clerks	7.4	769	27000	3151130	3124130
+27526	en	The Crossing Guard	6	The Crossing Guard	6.1	74	0	0	0
+1909	en	Don Juan DeMarco	7	Don Juan DeMarco	6.3	184	25000000	22200000	-2800000
+8984	en	Disclosure	12	Disclosure	5.9	217	55000000	214015089	159015089
+8467	en	Dumb and Dumber	10	Dumb and Dumber	6.5	1894	16000000	247275374	231275374
+46785	fa	?????? ????	1	The White Balloon	7.5	20	0	0	0
+10451	zh	????	5	Eat Drink Man Woman	7.5	76	0	7294403	7294403
+18395	en	Exit to Eden	4	Exit to Eden	4.3	28	0	6841570	6841570
+522	en	Ed Wood	12	Ed Wood	7.3	639	18000000	5887457	-12112543
+15789	en	A Goofy Movie	10	A Goofy Movie	6.7	404	0	35348597	35348597
+146599	en	Once Upon a Time... When We Were Colored	0	Once Upon a Time... When We Were Colored	4.5	2	0	0	0
+27303	en	Hideaway	8	Hideaway	5	24	15000000	12201255	-2798745
+47867	en	Gordy	0	Gordy	3	4	0	3992809	3992809
+188588	en	Last Summer in the Hamptons	1	Last Summer in the Hamptons	0	0	0	0	0
+14275	en	Hoop Dreams	9	Hoop Dreams	7.7	91	700000	7830611	7130611
+1024	en	Heavenly Creatures	9	Heavenly Creatures	6.9	299	5000000	3049135	-1950865
+8447	en	Angels and Insects	2	Angels and Insects	6.3	17	0	0	0
+17207	en	Houseguest	3	Houseguest	6	17	10500000	26325256	15825256
+14819	en	Heavyweights	10	Heavyweights	6	97	0	17689177	17689177
+628	en	Interview with the Vampire	12	Interview with the Vampire	7.2	1558	60000000	223664608	163664608
+87729	en	Jefferson in Paris	2	Jefferson in Paris	5.2	10	14000000	2474000	-11526000
+6280	en	Junior	7	Junior	4.7	381	60000000	37000000	-23000000
+11	en	Star Wars	42	Star Wars	8.1	6778	11000000	775398007	764398007
+18183	es	Como agua para chocolate	4	Like Water for Chocolate	6.6	70	2000000	21665468	19665468
+61548	en	The Journey of August King	0	The Journey of August King	6.7	3	0	0	0
+4476	en	Legends of the Fall	12	Legends of the Fall	7.2	636	30000000	160638883	130638883
+28313	en	Losing Isaiah	8	Losing Isaiah	6.4	28	17000000	7603766	-9396234
+3036	en	Frankenstein	14	Mary Shelley's Frankenstein	6.1	272	45000000	112006296	67006296
+8986	en	Milk Money	4	Milk Money	5.6	49	0	18137661	18137661
+9283	en	Beautiful Girls	5	Beautiful Girls	6.6	103	0	0	0
+10510	en	Miracle on 34th Street	6	Miracle on 34th Street	6.4	199	0	46264384	46264384
+17402	en	Miami Rhapsody	1	Miami Rhapsody	5.6	7	6	5	-1
+8438	en	Murder in the First	10	Murder in the First	6.9	140	0	17381942	17381942
+40154	en	A Midwinter's Tale	1	A Midwinter's Tale	7.5	6	0	0	0
+1945	en	Nell	6	Nell	6.1	128	31000000	106683817	75683817
+45549	en	Shopping	3	Shopping	5.6	13	0	0	0
+63076	en	Heidi Fleiss: Hollywood Madam	1	Heidi Fleiss: Hollywood Madam	6.8	4	0	0	0
+11062	en	City Hall	5	City Hall	6	67	0	0	0
+47475	en	Mr. Wrong	3	Mr. Wrong	3.3	16	0	0	0
+31611	en	White Man's Burden	2	White Man's Burden	5.1	25	8000000	0	-8000000
+65796	en	Wild Bill	9	Wild Bill	5.9	27	30000000	0	-30000000
+11907	de	Keiner liebt mich	1	Nobody Loves Me	5.1	5	0	0	0
+89333	en	Catwalk	1	Catwalk	7	2	0	0	0
+96357	en	Headless Body in Topless Bar	0	Headless Body in Topless Bar	0	0	0	0	0
+4954	en	Drop Zone	10	Drop Zone	5.1	91	45000000	0	-45000000
+71754	en	Margaret's Museum	0	Margaret's Museum	7.5	2	0	0	0
+16934	en	The Young Poisoner's Handbook	6	The Young Poisoner's Handbook	6.9	19	0	0	0
+10324	en	If Lucy Fell	3	If Lucy Fell	5.4	11	0	0	0
+55731	en	Race the Sun	1	Race the Sun	5.2	21	0	0	0
+13701	en	Immortal Beloved	8	Immortal Beloved	6.9	90	120	0	-120
+32119	en	The Boys of St. Vincent	1	The Boys of St. Vincent	7	7	0	0	0
+11777	en	I.Q.	5	I.Q.	5.9	112	25000000	0	-25000000
+11104	cn	????	7	Chungking Express	7.9	249	0	0	0
+37975	it	L'uomo delle stelle	2	The Star Maker	6.8	29	0	0	0
+6071	en	Kiss of Death	8	Kiss of Death	5.7	83	40000000	0	-40000000
+44284	ar	??? ??????	0	The Silences of the Palace	4.3	3	0	0	0
+9587	en	Little Women	10	Little Women	7	222	18000000	0	-18000000
+290157	en	Jupiter's Wife	0	Jupiter's Wife	0	0	0	0	0
+19101	en	A Little Princess	8	A Little Princess	7.4	207	17000000	0	-17000000
+110972	en	Pie in the Sky	1	Pie in the Sky	7	2	0	0	0
+17961	fr	L'Enfer	2	L'Enfer	6.6	22	10000000	0	-10000000
+32622	en	Angela	2	Angela	5.6	9	0	0	0
+73067	it	Frankie Starlight	1	Frankie Starlight	5.4	4	0	0	0
+43742	en	Love Affair	3	Love Affair	4.3	11	60000000	0	-60000000
+55475	es	Nueba Yol	0	Nueba Yol	5.5	1	0	0	0
+124636	en	Sonic Outlaws	0	Sonic Outlaws	0	0	0	0	0
+9101	en	Down Periscope	5	Down Periscope	5.6	110	0	0	0
+24070	en	Mixed Nuts	3	Mixed Nuts	5.2	37	15000000	0	-15000000
+123360	en	From the Journals of Jean Seberg	0	From the Journals of Jean Seberg	6.5	2	0	0	0
+39428	en	The Neon Bible	0	The Neon Bible	7.2	5	0	0	0
+124639	en	Target	0	Target	0	0	0	0	0
+249882	en	Gospa	1	Virgin Mary	7	2	0	0	0
+16388	en	The Brothers McMullen	2	The Brothers McMullen	6.3	23	0	0	0
+30765	en	The Amazing Panda Adventure	2	The Amazing Panda Adventure	5	31	0	0	0
+10474	en	The Basketball Diaries	7	The Basketball Diaries	7.2	472	0	0	0
+30157	en	Amateur	2	Amateur	6.5	21	0	0	0
+34996	en	The Addiction	3	The Addiction	6.4	46	0	0	0
+649	fr	Belle de jour	10	Belle de Jour	7.3	163	0	0	0
+1873	en	Beyond Rangoon	2	Beyond Rangoon	6.4	21	0	0	0
+13552	en	The Doom Generation	7	The Doom Generation	5.6	57	0	0	0
+259209	en	Feast of July	1	Feast of July	0	0	0	0	0
+9073	en	Free Willy 2 - The Adventure Home	8	Free Willy 2 - The Adventure Home	5.5	130	0	0	0
+17447	en	Jeffrey	3	Jeffrey	6.5	19	0	0	0
+8973	en	Lord of Illusions	4	Lord of Illusions	5.9	87	0	0	0
+15730	en	Love & Human Remains	0	Love & Human Remains	7	7	0	0	0
+68274	en	Moonlight and Valentino	1	Moonlight and Valentino	5.6	10	0	0	0
+34574	en	Nadja	8	Nadja	5.9	12	0	0	0
+58372	en	Reckless	0	Reckless	10	1	0	0	0
+32646	en	Safe	8	Safe	7.2	62	0	0	0
+56088	en	The Show	0	The Show	5.3	2	0	0	0
+139408	en	The Stars Fell on Henrietta	1	The Stars Fell on Henrietta	6.6	6	0	0	0
+5967	fr	Les parapluies de Cherbourg	8	The Umbrellas of Cherbourg	7.6	119	0	0	0
+52856	en	Unstrung Heroes	3	Unstrung Heroes	6.4	9	0	0	0
+77350	en	Unzipped	1	Unzipped	6	6	0	0	0
+49805	en	The Browning Version	4	The Browning Version	6	11	0	0	0
+26258	en	Bushwhacked	3	Bushwhacked	4.9	29	0	0	0
+37141	en	The Babysitter	3	The Babysitter	4.7	27	0	0	0
+6715	en	The Cure	3	The Cure	7.2	58	0	0	0
+18256	en	Castle Freak	2	Castle Freak	5.8	40	0	0	0
+22625	en	Circle of Friends	3	Circle of Friends	6.5	30	0	0	0
+61813	en	Dream Man	0	Dream Man	2.5	1	0	0	0
+62488	it	Destiny Turns on the Radio	1	Destiny Turns on the Radio	5.3	9	0	0	0
+10531	en	Death and the Maiden	5	Death and the Maiden	7.1	92	0	0	0
+11929	en	Dolores Claiborne	6	Dolores Claiborne	7.1	183	0	0	0
+20156	en	Exotica	5	Exotica	6.5	64	0	0	0
+397	en	French Kiss	9	French Kiss	6.2	179	0	0	0
+10525	en	Forget Paris	16	Forget Paris	6.1	38	0	0	0
+27985	en	Far from Home: The Adventures of Yellow Dog	3	Far from Home: The Adventures of Yellow Dog	5.6	27	0	0	0
+21183	en	Fluke	5	Fluke	6.6	48	0	0	0
+10954	fr	Farinelli	9	Farinelli	5.9	20	0	0	0
+43475	en	Gumby: The Movie	0	Gumby: The Movie	5	2	0	0	0
+72031	en	The Glass Shield	1	The Glass Shield	5.4	9	0	0	0
+32631	en	The Hunted	3	The Hunted	6	25	0	0	0
+18713	en	The Jerky Boys	1	The Jerky Boys	4.8	10	0	0	0
+9061	en	Just Cause	9	Just Cause	6	124	0	0	0
+37108	en	A Kid in King Arthur's Court	6	A Kid in King Arthur's Court	4.3	40	0	0	0
+49980	en	Ladybird Ladybird	1	Ladybird Ladybird	7.4	14	0	0	0
+11008	en	Major Payne	9	Major Payne	6.1	164	0	0	0
+47504	en	Little Odessa	2	Little Odessa	6.4	31	0	0	0
+32325	en	Mi Vida Loca	2	Mi Vida Loca	5.7	9	0	0	0
+11318	en	The Madness of King George	5	The Madness of King George	6.7	67	0	0	0
+40490	en	Man of the House	3	Man of the House	5.1	40	0	0	0
+38722	en	My Family	3	My Family	7	11	5500000	0	-5500000
+11593	en	Nobody's Fool	3	Nobody's Fool	7	56	0	0	0
+39310	en	New Jersey Drive	1	New Jersey Drive	6.9	7	0	0	0
+109560	en	New York Cop	0	New York Cop	0	0	0	0	0
+56428	en	Beyond Bedlam	0	Beyond Bedlam	4	4	4800000	0	-4800000
+63105	en	Nemesis 2 - Nebula	1	Nemesis 2 - Nebula	4.6	10	0	0	0
+131957	en	Nina Takes a Lover	1	Nina Takes a Lover	7.4	4	0	0	0
+241	en	Natural Born Killers	11	Natural Born Killers	6.9	927	34000000	50282766	16282766
+9058	en	Only You	5	Only You	6.4	92	0	0	0
+527	en	Once Were Warriors	4	Once Were Warriors	7.6	106	0	2201126	2201126
+18220	en	Poison Ivy II: Lily	6	Poison Ivy II: Lily	4.6	32	0	0	0
+6950	en	Outbreak	14	Outbreak	6.4	522	50000000	189859560	139859560
+101	fr	L on	20	Leon: The Professional	8.2	4293	16000000	45284974	29284974
+63020	en	The Perez Family	1	The Perez Family	6.6	9	11000000	2832826	-8167174
+2307	en	A Pyromaniac's Love Story	0	A Pyromaniac's Love Story	7	2	0	0	0
+680	en	Pulp Fiction	141	Pulp Fiction	8.3	8670	8000000	213928762	205928762
+41478	en	Panther	7	Panther	6.4	6	0	6834525	6834525
+25296	zh	Pushing Hands	2	Pushing Hands	6.1	9	400000	152322	-247678
+40156	en	Priest	2	Priest	6.4	32	0	4176932	4176932
+11450	en	Quiz Show	8	Quiz Show	7.1	262	0	0	0
+30304	en	Picture Bride	1	Picture Bride	7.4	5	0	0	0
+10452	fr	La Reine Margot	4	Queen Margot	7	67	0	0	0
+12106	en	The Quick and the Dead	8	The Quick and the Dead	6.2	431	32000000	18552460	-13447540
+161495	sv	Roommates	3	Roommates	6.4	7	22000000	12400000	-9600000
+3586	en	Pr t- -Porter	6	Pr t- -Porter	5.3	33	15000000	11300653	-3699347
+110	fr	Trois couleurs : Rouge	8	Three Colors: Red	7.8	246	0	0	0
+108	fr	Trois couleurs : Bleu	9	Three Colors: Blue	7.7	311	0	0	0
+109	fr	Trois couleurs : Blanc	7	Three Colors: White	7.3	218	0	0	0
+159185	zh	Pao Da Shuang Deng	0	"Red Firecracker, Green Firecracker"	7	2	0	0	0
+36357	en	Rent-a-Kid	1	Rent-a-Kid	5.1	15	0	0	0
+92769	en	Relative Fear	0	Relative Fear	4.7	3	0	0	0
+28033	en	Stuart Saves His Family	1	Stuart Saves His Family	5	6	0	0	0
+22586	en	The Swan Princess	9	The Swan Princess	6.5	251	35000000	9771658	-25228342
+14334	en	The Secret of Roan Inish	2	The Secret of Roan Inish	6.1	15	0	0	0
+2636	en	The Specialist	10	The Specialist	5.5	317	45000000	170362582	125362582
+2164	en	Stargate	13	Stargate	6.8	942	55000000	196567262	141567262
+11395	en	The Santa Clause	10	The Santa Clause	6.3	501	22000000	189833357	167833357
+278	en	The Shawshank Redemption	52	The Shawshank Redemption	8.5	8358	25000000	28341469	3341469
+9905	en	Shallow Grave	8	Shallow Grave	7	247	0	0	0
+87078	en	Suture	1	Suture	6	7	0	102780	102780
+12527	es	Fresa y chocolate	2	Strawberry and Chocolate	7.1	16	0	0	0
+20306	en	Swimming with Sharks	6	Swimming with Sharks	6.7	104	0	0	0
+36614	en	The Sum of Us	1	The Sum of Us	6	21	32	0	-32
+27993	en	Senior Trip	5	Senior Trip	5.7	23	0	0	0
+31439	zh	??	5	To Live	7.7	62	0	0	0
+9067	en	Tank Girl	8	Tank Girl	5.5	140	25000000	4064495	-20935505
+9059	en	Tales from the Crypt: Demon Knight	9	Tales from the Crypt: Demon Knight	6.7	96	0	0	0
+193	en	Star Trek: Generations	8	Star Trek: Generations	6.4	461	38000000	120000000	82000000
+25066	en	Tales from the Hood	3	Tales from the Hood	5.4	33	6000000	12000000	6000000
+46797	en	Tom & Viv	1	Tom & Viv	5.8	8	0	0	0
+12122	en	Village of the Damned	7	Village of the Damned	5.6	165	0	0	0
+11381	en	Tommy Boy	12	Tommy Boy	6.8	321	0	32648673	32648673
+32636	en	Vanya on 42nd Street	7	Vanya on 42nd Street	6.1	15	0	0	0
+36141	en	The Underneath	2	The Underneath	5.6	15	6500000	0	-6500000
+95963	en	The Walking Dead	1	The Walking Dead	6.6	4	0	0	0
+1587	en	What's Eating Gilbert Grape	10	What's Eating Gilbert Grape	7.5	943	11000000	10032765	-967235
+9271	en	Virtuosity	5	Virtuosity	5.4	163	30000000	24048000	-5952000
+2064	en	While You Were Sleeping	16	While You Were Sleeping	6.5	340	17000000	182057016	165057016
+19855	en	The War	4	The War	6.3	39	0	0	0
+60855	en	Double Happiness	0	Double Happiness	5.5	2	0	759393	759393
+236	en	Muriel's Wedding	5	Muriel's Wedding	6.9	104	3000000	15119639	12119639
+48287	en	The Baby-Sitters Club	2	The Baby-Sitters Club	5.3	23	0	0	0
+3049	en	Ace Ventura: Pet Detective	11	Ace Ventura: Pet Detective	6.4	1684	15000000	107217396	92217396
+2759	en	"The Adventures of Priscilla, Queen of the Desert"	8	"The Adventures of Priscilla, Queen of the Desert"	7.2	174	0	11220670	11220670
+12635	en	Backbeat	2	Backbeat	6.2	37	0	0	0
+10497	en	Bitter Moon	11	Bitter Moon	7	115	5000000	1862805	-3137195
+11382	en	Bullets Over Broadway	6	Bullets Over Broadway	7	130	0	0	0
+9331	en	Clear and Present Danger	8	Clear and Present Danger	6.4	390	62000000	215887717	153887717
+10731	en	The Client	15	The Client	6.4	287	45000000	117615211	72615211
+10464	en	"Corrina, Corrina"	7	"Corrina, Corrina"	6.4	83	0	0	0
+34152	en	Crooklyn	3	Crooklyn	6.7	31	0	0	0
+9495	en	The Crow	16	The Crow	7.3	980	15000000	94000000	79000000
+29973	en	Cobb	3	Cobb	6.1	29	0	1007583	1007583
+888	en	The Flintstones	15	The Flintstones	5	559	46000000	341631208	295631208
+13	en	Forrest Gump	48	Forrest Gump	8.2	8147	55000000	677945399	622945399
+712	en	Four Weddings and a Funeral	9	Four Weddings and a Funeral	6.6	654	6000000	254700832	248700832
+16295	en	Higher Learning	8	Higher Learning	6.4	49	0	38290723	38290723
+48992	en	I Like It Like That	0	I Like It Like That	6.3	4	0	1777020	1777020
+10879	en	I Love Trouble	4	I Love Trouble	5.3	41	45000000	61947267	16947267
+10660	en	It Could Happen to You	11	It Could Happen to You	6.1	154	0	0	0
+10714	en	The Jungle Book	11	The Jungle Book	5.9	107	0	0	0
+41647	en	Die Macht der Bilder: Leni Riefenstahl	1	"The Wonderful, Horrible Life of Leni Riefenstahl"	7.3	5	0	449707	449707
+8587	en	The Lion King	22	The Lion King	8	5520	45000000	788241776	743241776
+1689	en	Little Buddha	6	Little Buddha	6	76	35000000	4858139	-30141861
+11596	en	New Nightmare	10	New Nightmare	6.4	297	14000000	18090181	4090181
+854	en	The Mask	14	The Mask	6.6	2550	23000000	351583407	328583407
+9359	en	Maverick	15	Maverick	6.6	490	0	0	0
+23333	en	Mrs. Parker and the Vicious Circle	5	Mrs. Parker and the Vicious Circle	6.3	20	0	0	0
+36593	en	The Naked Gun 33?: The Final Insult	11	The Naked Gun 33?: The Final Insult	6.4	535	30000000	51132598	21132598
+12280	en	The Paper	4	The Paper	6.1	40	6000000	0	-6000000
+2788	en	Reality Bites	7	Reality Bites	6.5	180	11500000	20079850	8579850
+10427	en	Red Rock West	5	Red Rock West	6.4	71	8000000	2000000	-6000000
+11011	en	Ri hie Ri h	7	Ri hie Ri h	5.4	426	40000000	0	-40000000
+49803	en	Safe Passage	5	Safe Passage	4.9	7	0	0	0
+8987	en	The River Wild	11	The River Wild	6.1	214	45000000	0	-45000000
+1637	en	Speed	11	Speed	6.8	1814	30000000	350448145	320448145
+15128	en	Speechless	2	Speechless	5.5	24	0	0	0
+8831	en	Timecop	9	Timecop	5.5	288	27000000	101646581	74646581
+36955	en	True Lies	11	True Lies	6.8	1138	115000000	378882411	263882411
+10449	en	When a Man Loves a Woman	4	When a Man Loves a Woman	6	71	0	50021959	50021959
+10395	en	Wolf	14	Wolf	6	221	0	0	0
+12160	en	Wyatt Earp	9	Wyatt Earp	6.5	203	63000000	25052000	-37948000
+40480	en	Bad Company	1	Bad Company	4.9	12	0	0	0
+52038	en	A Man of No Importance	0	A Man of No Importance	6.5	2	0	953	953
+29444	en	S.F.W.	3	S.F.W.	6.1	22	0	0	0
+26352	en	A Low Down Dirty Shame	3	A Low Down Dirty Shame	6	31	10000000	29392418	19392418
+39953	en	"Boys Life: Three Stories of Love, Lust, and Liberation"	0	"Boys Life: Three Stories of Love, Lust, and Liberation"	2	1	0	0	0
+41580	fr	Le colonel Chabert	1	Colonel Chabert	5.9	9	0	0	0
+315	en	"Faster, Pussycat! Kill! Kill!"	4	"Faster, Pussycat! Kill! Kill!"	6.5	59	45000	0	-45000
+22067	en	Jason's Lyric	1	Jason's Lyric	5.9	9	7000000	20851521	13851521
+18242	en	The Secret Adventures of Tom Thumb	0	The Secret Adventures of Tom Thumb	7.1	8	0	0	0
+11667	en	Street Fighter	14	Street Fighter	4.1	330	35000000	99423521	64423521
+32502	en	Coldblooded	2	Coldblooded	6.7	13	0	0	0
+267188	en	Desert Winds	0	Desert Winds	0	0	0	0	0
+28732	en	Fall Time	1	Fall Time	6.3	6	0	0	0
+75555	en	The Fear	0	The Fear	3.4	7	0	0	0
+42981	en	Frank and Ollie	0	Frank and Ollie	7.5	4	0	0	0
+278939	en	Girl in the Cadillac	0	Girl in the Cadillac	10	1	0	0	0
+291731	en	Homage	0	Homage	0	0	0	0	0
+226229	en	Mirage	0	Mirage	4	1	0	0	0
+203119	en	Open Season	0	Open Season	0	0	0	0	0
+172923	en	Dos Cr menes	0	Dos Cr menes	5	1	0	0	0
+316098	en	Brother Minister: The Assassination of Malcolm X	0	Brother Minister: The Assassination of Malcolm X	4	1	0	0	0
+8011	en	Highlander III: The Sorcerer	7	Highlander: The Final Dimension	4.5	110	26000000	36800000	10800000
+171857	en	Federal Hill	0	Federal Hill	5	2	0	0	0
+2654	en	In the Mouth of Madness	8	In the Mouth of Madness	7.1	307	8000000	8946600	946600
+18069	en	8 Seconds	2	8 Seconds	7.2	22	0	0	0
+19092	en	Above the Rim	4	Above the Rim	6.7	40	0	0	0
+2758	en	Addams Family Values	18	Addams Family Values	6.5	537	0	48919043	48919043
+38129	en	Martin Lawrence: You So Crazy	0	Martin Lawrence: You So Crazy	4.5	4	0	0	0
+10436	en	The Age of Innocence	8	The Age of Innocence	7	172	34000000	32255440	-1744560
+13595	en	Airheads	7	Airheads	5.8	222	0	0	0
+46094	en	The Air Up There	2	The Air Up There	5.1	42	17080000	21011500	3931500
+9409	en	Another Stakeout	13	Another Stakeout	4.9	58	0	0	0
+11853	en	Bad Girls	15	Bad Girls	4.6	61	0	15240435	15240435
+16771	en	Barcelona	2	Barcelona	6.6	20	3200000	0	-3200000
+46924	en	Being Human	3	Being Human	5	15	40000000	0	-40000000
+11041	en	The Beverly Hillbillies	6	The Beverly Hillbillies	5	86	0	0	0
+306	en	Beverly Hills Cop III	12	Beverly Hills Cop III	5.5	445	50000000	119208989	69208989
+14522	en	Black Beauty	8	Black Beauty	6.6	68	0	0	0
+26203	en	Blink	3	Blink	6.3	45	0	16668552	16668552
+178	en	Blown Away	13	Blown Away	6	126	0	30156002	30156002
+19819	en	Blue Chips	6	Blue Chips	5.7	41	0	0	0
+57834	en	Blue Sky	5	Blue Sky	6.1	28	0	0	0
+4722	en	Body Snatchers	7	Body Snatchers	5.8	102	13000000	428868	-12571132
+18215	en	Boxing Helena	4	Boxing Helena	4.5	59	0	1796389	1796389
+1607	en	A Bronx Tale	6	A Bronx Tale	7.4	447	22000000	17287898	-4712102
+26391	en	Cabin Boy	2	Cabin Boy	4.9	28	0	3662459	3662459
+117553	en	Calendar Girl	1	Calendar Girl	3.7	10	13000000	2570145	-10429855
+6075	en	Carlito's Way	9	Carlito's Way	7.7	805	30000000	36516012	6516012
+11310	en	City Slickers II: The Legend of Curly's Gold	9	City Slickers II: The Legend of Curly's Gold	4.9	103	0	0	0
+18658	en	Clean Slate	3	Clean Slate	5.7	25	0	7355425	7355425
+9350	en	Cliffhanger	10	Cliffhanger	6.1	600	70000000	255000211	185000211
+9612	en	Coneheads	11	Coneheads	4.8	228	0	0	0
+2124	en	Color of Night	14	Color of Night	5.4	117	40000000	19726050	-20273950
+26261	en	Cops & Robbersons	7	Cops & Robbersons	5	36	0	0	0
+19176	en	The Cowboy Way	4	The Cowboy Way	5.1	38	0	0	0
+49299	en	Dangerous Game	3	Dangerous Game	5.4	9	0	0	0
+11566	en	Dave	14	Dave	6.3	205	0	63000000	63000000
+9571	en	Dazed and Confused	7	Dazed and Confused	7.4	588	6900000	7993039	1093039
+9739	en	Demolition Man	12	Demolition Man	6.4	1018	57000000	159055768	102055768
+24257	en	The Endless Summer 2	0	The Endless Summer 2	7.1	12	0	0	0
+34444	en	Even Cowgirls Get the Blues	3	Even Cowgirls Get the Blues	4.2	29	8000000	0	-8000000
+26141	en	Fatal Instinct	4	Fatal Instinct	5.4	37	0	0	0
+10997	zh	????	5	Farewell My Concubine	7.8	98	0	0	0
+50463	en	The Favor	1	The Favor	3.3	6	0	0	0
+10443	en	Fearless	9	Fearless	6.8	80	0	0	0
+20239	en	Fear of a Black Hat	1	Fear of a Black Hat	5.8	11	0	0	0
+16297	en	With Honors	3	With Honors	6.1	54	0	0	0
+18551	en	Flesh and Bone	2	Flesh and Bone	6.2	22	0	9488998	9488998
+25440	en	Widows' Peak	0	Widows' Peak	4.3	3	0	0	0
+9024	en	For Love or Money	8	For Love or Money	5.7	77	30000000	11146270	-18853730
+37233	en	The Firm	10	The Firm	6.6	513	42000000	270248367	228248367
+1634	en	Free Willy	6	Free Willy	6	429	20000000	153698625	133698625
+13815	en	Fresh	4	Fresh	7.6	56	0	0	0
+5503	en	The Fugitive	10	The Fugitive	7.2	1240	44000000	368875760	324875760
+35588	en	Geronimo: An American Legend	5	Geronimo: An American Legend	5.9	44	35000000	18635620	-16364380
+2087	en	The Getaway	14	The Getaway	5.4	81	0	30	30
+41579	en	Getting Even with Dad	2	Getting Even with Dad	4.5	43	30000000	0	-30000000
+18620	en	Go Fish	1	Go Fish	3.9	5	0	0	0
+41006	en	A Good Man in Africa	5	A Good Man in Africa	5.2	11	0	0	0
+4916	en	Guilty as Sin	5	Guilty as Sin	5.6	21	0	22886222	22886222
+2019	en	Hard Target	8	Hard Target	6.1	237	18000000	74189677	56189677
+31642	en	Heaven & Earth	4	Heaven & Earth	6.4	51	33000000	0	-33000000
+9255	en	Hot Shots! Part Deux	13	Hot Shots! Part Deux	6.2	463	25000000	133752825	108752825
+26271	en	Live Nude Girls	2	Live Nude Girls	4.7	12	0	0	0
+10612	en	The Englishman Who Went Up a Hill But Came Down a Mountain	5	The Englishman Who Went Up a Hill But Came Down a Mountain	6.1	83	0	0	0
+2259	en	The House of the Spirits	11	The House of the Spirits	6.7	135	25000000	0	-25000000
+16097	en	House Party 3	1	House Party 3	4.6	11	0	0	0
+11934	en	The Hudsucker Proxy	8	The Hudsucker Proxy	7.1	280	30000000	0	-30000000
+106143	en	I'll Do Anything	2	I'll Do Anything	5.7	18	40000000	0	-40000000
+12475	en	In the Army Now	6	In the Army Now	4.7	54	0	28881266	28881266
+9386	en	In the Line of Fire	13	In the Line of Fire	6.8	392	40000000	176997168	136997168
+7984	en	In the Name of the Father	7	In the Name of the Father	7.6	363	13000000	65796862	52796862
+59930	en	The Inkwell	1	The Inkwell	3.9	5	0	8880705	8880705
+15765	en	What's Love Got to Do with It	15	What's Love Got to Do with It	6.9	75	0	0	0
+31643	en	Jimmy Hollywood	5	Jimmy Hollywood	4.6	17	30000000	0	-30000000
+6	en	Judgment Night	6	Judgment Night	6.4	79	0	12136938	12136938
+329	en	Jurassic Park	9	Jurassic Park	7.6	4956	63000000	920100000	857100000
+10909	en	Kalifornia	8	Kalifornia	6.5	209	9000000	2395231	-6604769
+507	en	Killing Zoe	5	Killing Zoe	6.1	111	1500000	418961	-1081039
+34024	en	King of the Hill	4	King of the Hill	6.4	33	0	0	0
+29918	en	Lassie	4	Lassie	6.1	54	0	0	0
+9593	en	Last Action Hero	9	Last Action Hero	6.1	725	85000000	137298489	52298489
+42580	en	Life With Mikey	6	Life With Mikey	5.1	24	0	0	0
+22317	en	Lightning Jack	3	Lightning Jack	5.7	40	0	0	0
+1413	en	M. Butterfly	7	M. Butterfly	6.6	35	0	1499795	1499795
+12121	en	Made in America	5	Made in America	5.3	86	22000000	0	-22000000
+2246	en	Malice	10	Malice	5.9	105	0	46405336	46405336
+10502	en	The Man without a Face	6	The Man without a Face	6.2	125	0	24760338	24760338
+10440	en	Manhattan Murder Mystery	9	Manhattan Murder Mystery	7.1	169	13500000	11285588	-2214412
+9516	en	Menace II Society	5	Menace II Society	7.2	179	3500000	27900000	24400000
+2320	en	Executive Decision	13	Executive Decision	5.8	261	55000000	121969216	66969216
+5879	ja	??????	9	In the Realm of the Senses	6.5	112	0	0	0
+83718	en	What Happened Was...	1	What Happened Was...	7	7	0	0	0
+11971	en	Much Ado About Nothing	9	Much Ado About Nothing	7.2	194	8000000	0	-8000000
+2625	en	Mr. Jones	7	Mr. Jones	5.9	35	0	0	0
+31911	en	Mr. Wonderful	13	Mr. Wonderful	5.5	11	0	0	0
+788	en	Mrs. Doubtfire	11	Mrs. Doubtfire	7	1638	25000000	441286195	416286195
+21450	en	Naked	9	Naked	7.5	105	0	0	0
+11231	en	The Next Karate Kid	10	The Next Karate Kid	4.8	202	12000000	15826984	3826984
+41588	en	The New Age	1	The New Age	4.8	5	0	0	0
+10447	en	No Escape	10	No Escape	6.1	86	20000000	15340000	-4660000
+31586	en	North	16	North	4.8	67	40000000	0	-40000000
+9300	en	Orlando	4	Orlando	6.7	53	4000000	0	-4000000
+9559	en	A Perfect World	8	A Perfect World	7.2	376	30000000	135130999	105130999
+9800	en	Philadelphia	13	Philadelphia	7.6	1019	26000000	206678440	180678440
+713	en	The Piano	7	The Piano	7.1	290	7000000	116700000	109700000
+8291	en	Poetic Justice	7	Poetic Justice	6.9	47	14000000	27515786	13515786
+18133	en	The Program	3	The Program	6	28	0	23042200	23042200
+25557	en	The Puppet Masters	7	The Puppet Masters	5.6	41	0	8638072	8638072
+22588	en	Radioland Murders	9	Radioland Murders	5.8	12	0	0	0
+10872	en	The Ref	6	The Ref	6.7	99	11000000	11439193	439193
+1245	en	The Remains of the Day	12	The Remains of the Day	7.5	213	11500000	23237911	11737911
+11858	en	Renaissance Man	5	Renaissance Man	5.9	83	40000000	24332324	-15667676
+7007	en	Rising Sun	6	Rising Sun	5.8	188	0	107198790	107198790
+10467	en	The Road to Wellville	3	The Road to Wellville	5.5	43	0	0	0
+5550	en	RoboCop 3	9	RoboCop 3	4.2	309	22000000	10696210	-11303790
+8005	en	Robin Hood: Men in Tights	17	Robin Hood: Men in Tights	6.4	575	20000000	35739755	15739755
+2088	en	Romeo Is Bleeding	10	Romeo Is Bleeding	5.7	36	11500000	3275585	-8224415
+10412	en	Romper Stomper	5	Romper Stomper	6.6	126	0	0	0
+47889	en	Ruby in Paradise	1	Ruby in Paradise	5.6	10	800000	1001437	201437
+14534	en	Rudy	6	Rudy	7.2	187	12000000	22750363	10750363
+56583	en	The Saint of Fort Washington	1	The Saint of Fort Washington	4	5	0	0	0
+41878	fr	Les Nuits Fauves	1	Savage Nights	6.2	11	0	0	0
+424	en	Schindler's List	42	Schindler's List	8.3	4436	22000000	321365567	299365567
+35233	en	The Scout	6	The Scout	5.3	37	0	0	0
+14291	en	Searching for Bobby Fischer	12	Searching for Bobby Fischer	7.3	100	0	7266383	7266383
+103413	en	Second Best	1	Second Best	5.9	8	0	0	0
+11236	en	The Secret Garden	6	The Secret Garden	7.1	232	0	0	0
+11592	en	Serial Mom	5	Serial Mom	6.4	137	13000000	7820688	-5179312
+8850	en	The Shadow	8	The Shadow	5.4	140	25000000	48063435	23063435
+10445	en	Shadowlands	3	Shadowlands	6.8	61	22000000	0	-22000000
+695	en	Short Cuts	9	Short Cuts	6.9	136	0	6110979	6110979
+43535	en	A Simple Twist of Fate	4	A Simple Twist of Fate	5.7	26	0	0	0
+12519	en	Sirens	3	Sirens	5.2	31	0	7770731	7770731
+23210	en	Six Degrees of Separation	9	Six Degrees of Separation	6.5	75	0	0	0
+858	en	Sleepless in Seattle	10	Sleepless in Seattle	6.5	630	21000000	227799884	206799884
+867	en	Sliver	11	Sliver	4.9	144	40000000	116300000	76300000
+78	en	Blade Runner	96	Blade Runner	7.9	3833	28000000	33139618	5139618
+13203	en	Son in Law	9	Son in Law	5.6	81	0	36448200	36448200
+346225	es	La calle de la amargura	1	Bleak Street	6	2	0	0	0
+333097	en	Almost Holy	0	Almost Holy	6	3	0	0	0
+415633	en	Tonight She Comes	1	Tonight She Comes	5.3	14	0	0	0
+429524	en	Drone Wars	1	Drone Wars	3	7	0	0	0
+421126	uk	?????? ?????'???	2	The Dragon Spell	4	1	0	0	0
+104810	en	Iyulskiy Dozhd	0	July Rain	5.3	3	0	0	0
+383743	fr	Avant les rues	0	Before the Streets	4	2	0	0	0
+365451	en	"Baby, Baby, Baby"	2	"Baby, Baby, Baby"	6	4	0	0	0
+17229	en	Bill Maher: The Decider	1	Bill Maher: The Decider	7.1	9	0	0	0
+75760	en	American Teacher	0	American Teacher	5.7	3	0	0	0
+412669	en	First Round Down	0	First Round Down	10	1	0	0	0
+279687	en	Futurama: The Lost Adventure	1	Futurama: The Lost Adventure	7.9	10	0	0	0
+464111	en	Zygote	3	Zygote	7.2	28	0	0	0
+385305	en	24 36	0	24 36	8.1	7	0	0	0
+440597	en	Wish Upon	60	Wish Upon	5.3	127	0	0	0
+433711	en	All Superheroes Must Die 2: The Last Superhero	0	All Superheroes Must Die 2: The Last Superhero	4	1	0	0	0
+417870	en	Girls Trip	38	Girls Trip	7.1	393	0	0	0
+419459	en	Landline	2	Landline	5.1	9	0	0	0
+407448	en	Detroit	10	Detroit	7.3	67	34000000	0	-34000000
+414453	en	Columbus	1	Columbus	6	4	0	0	0
+329005	en	Autism in Love	0	Autism in Love	5.8	4	0	0	0
+213204	en	The Foxy Merkins	0	The Foxy Merkins	6	2	0	0	0
+117800	ja	Hourou-ki	0	A Wanderer's Notebook	0	0	0	0	0
+384594	en	Blood Hunters	1	Blood Hunters	5.6	5	0	0	0
+257059	en	????????  ??????? 	1	The Hope Factory	5.3	7	0	0	0
+412103	en	Rick and Morty: State of Georgia Vs. Denver Fenton Allen	1	Rick and Morty: State of Georgia Vs. Denver Fenton Allen	8.7	10	0	0	0
+438665	en	Fittest On Earth: A Decade Of Fitness	1	Fittest On Earth: A Decade Of Fitness	6	2	0	0	0
+437830	en	Zero 3	0	Zero 3	8.7	3	0	0	0
+7014	fr	Themroc	2	Themroc	7.1	9	0	0	0
+411516	de	Ein deutsches Leben	0	A German Life	7.5	2	0	0	0
+254689	en	Never Tear Us Apart: The Untold Story of INXS	0	Never Tear Us Apart: The Untold Story of INXS	6	1	0	0	0
+101190	pl	Gangsterzy i filantropi	0	Gangsters and Philantropists	4.3	2	0	0	0
+316437	hi	Pairon Talle	0	Pairon Talle	5	1	0	0	0
+85709	ko	Dooman River	0	Dooman River	5.5	4	0	0	0
+60378	de	Hitler - Eine Karriere	0	Hitler: A Career	7.2	7	0	0	0
+403667	nl	Adios amigos	0	Adios amigos	6.3	4	0	0	0
+74464	nl	Kleine Teun	0	Little Tony	7.3	3	0	0	0
+459950	en	Feed	4	Feed	7.3	50	0	0	0
+332543	en	A Genius Leaves the Hood - The Unauthorized Story of Jay Z	0	A Genius Leaves the Hood - The Unauthorized Story of Jay Z	6	2	0	0	0
+128571	en	Cure for Pain: The Mark Sandman Story	0	Cure for Pain: The Mark Sandman Story	5	3	0	0	0
+82029	fr	Itin raire bis	1	Itin raire bis	4.8	23	0	0	0
+33704	fr	Le Carton	1	The Box	5.7	10	0	0	0
+103344	fr	D pression et des Potes	1	D pression et des Potes	5.1	27	0	0	0
+275272	fr	Je hais les enfants!	0	Je hais les enfants!	6.5	1	0	0	0
+68637	fr	L' l ve Ducobu	4	Ducoboo	4.9	79	0	0	0
+454774	en	The Girl from the Song	1	The Girl from the Song	6.3	4	0	0	0
+433410	en	Selbstkritik eines b rgerlichen Hundes	0	Self-criticism of a Bourgeois Dog	0	0	0	0	0
+429039	fr	"Jean Ziegler, l'optimisme de la volont "	0	"Jean Ziegler, l'optimisme de la volont "	0	0	0	0	0
+45592	en	Film	1	Film	6.5	11	0	0	0
+69483	en	Julia Misbehaves	0	Julia Misbehaves	6.8	3	0	0	0
+423453	fr	Sahara	9	Sahara	5.4	43	0	7800000	7800000
+451955	fr	L'Amant double	10	The Double Lover	6.2	72	0	0	0
+70609	de	Schulm dchen-Report 5. Teil: Was Eltern wirklich wissen sollten	3	Schoolgirl Report Part 5: What All Parents Should Know	6.3	6	0	0	0
+36886	de	Schulm dchen-Report 4. Teil: Was Eltern oft verzweifeln l  t	2	Schoolgirl Report Part 4: What Drives Parents to Despair	4.9	4	0	0	0
+36887	de	Der neue Schulm dchen-Report 2. Teil: Was Eltern den Schlaf raubt	2	Schoolgirl Report Part 2: What Keeps Parents Awake at Night	6.8	5	0	0	0
+36885	de	Schulm dchen-Report 3. Teil: Was Eltern nicht mal ahnen	2	Schoolgirl Report Part 3: What Parents Find Unthinkable	4.4	6	0	0	0
+12097	sv	Pippi L ngstrump	3	Pippi Longstocking	7	29	0	0	0
+280640	fr	Geronimo	1	Geronimo	7.7	9	0	0	0
+231216	de	Villa Henriette	0	Villa Henriette	0	0	0	0	0
+66247	ta	Muthu	0	Muthu	6.3	10	0	0	0
+49074	ta	Baasha	1	Baasha	7.8	14	0	15000000	15000000
+47940	ta	????????	1	Padayappa	7.3	13	0	0	0
+24049	ta	??????	1	Sivaji: The Boss	6.9	25	12000000	19000000	7000000
+28469	de	Der Herr Karl	0	Der Herr Karl	10	1	0	0	0
+410554	en	First Kill	8	First Kill	5.2	38	0	0	0
+96823	nl	Quiz	1	Quiz	5.5	11	0	0	0
+54559	en	Minions: Orientation Day	5	Minions: Orientation Day	7	95	0	0	0
+390343	en	Burden	1	Burden	6	1	0	0	0
+450875	en	LA 92	1	LA 92	8.8	3	0	0	0
+56841	sv	Tusen g nger starkare	1	A Thousand Times Stronger	5.7	5	0	0	0
+417320	en	Descendants 2	16	Descendants 2	7.5	171	0	0	0
+104700	fr	La lune   un m tre	0	The Astronomer's Dream	6.4	26	0	0	0
+70573	cn	????	0	Faithfully Yours	4.3	2	0	0	0
+407803	en	Harry Benson: Shoot First	1	Harry Benson: Shoot First	6.4	6	0	0	0
+104702	fr	La tentation de Saint-Antoine	0	The Temptation of St. Anthony	5.3	6	0	0	0
+49295	fr	L'Illusionniste fin de si cle	1	An Up-to-Date Conjurer	6.6	12	0	0	0
+51507	en	Pouta	0	Walking Too Fast	6	5	0	0	0
+265189	sv	Turist	12	Force Majeure	6.8	255	0	1359497	1359497
+373247	en	Down Under	1	Down Under	7.2	9	2000000	0	-2000000
+458618	en	Ivanka Trump- America's Real First Lady?	0	Ivanka Trump- America's Real First Lady?	2	1	0	0	0
+277839	fr	Pattaya	6	"Good Guys Go to Heaven, Bad Guys Go to Pattaya"	5.3	153	5402000	0	-5402000
+454787	en	Chris Gethard: Career Suicide	1	Chris Gethard: Career Suicide	7.5	4	0	0	0
+433471	en	Lou	2	Lou	8.5	17	0	0	0
+69727	en	Final Justice	0	Final Justice	4.4	4	0	0	0
+89606	en	Hemo The Magnificent	0	Hemo The Magnificent	7	1	0	0	0
+467731	en	Tragedy in a Temporary Town	0	Tragedy in a Temporary Town	0	0	0	0	0
+383216	en	Carole King: Natural Woman	0	Carole King: Natural Woman	0	0	0	0	0
+76289	fr	Terminus	0	Terminus	5	1	0	0	0
+104308	it	Il nido del ragno	0	The Spider Labyrinth	7.6	7	0	0	0
+206277	en	Shirley: Visions of Reality	1	Shirley: Visions of Reality	7.2	10	0	0	0
+92108	pl	Baby s? jakie? inne	0	Baby sa jakies inne	4.8	4	1689118	0	-1689118
+36415	pl	Wojna polsko-ruska	1	Snow White and Russian Red	6.9	9	0	0	0
+60153	en	Hi Way	0	Hi Way	7.5	2	0	0	0
+245073	pl	Zycie rodzinne	0	Family Life	5	1	0	0	0
+280477	pl	Dom wariat w	0	The House of Fools	0	0	0	0	0
+154575	pl	Iluminacja	0	Illumination	7.3	3	0	0	0
+88844	en	Code Blue	1	Code Blue	4.1	4	0	0	0
+182981	nl	Nude Area	0	Nude Area	5	2	0	0	0
+59958	en	Gideon's Daughter	1	Gideon's Daughter	6	15	0	0	0
+432025	pl	Sztuka kochania. Historia Michaliny Wis?ockiej	1	The Art of Loving. Story of Michalina Wislocka	6.7	9	0	0	0
+36391	en	Kingsajz	1	King Size	7.3	8	0	0	0
+87229	is	K ngavegur	0	King's Road	0	0	0	0	0
+383618	sv	Siv sover vilse	3	Siv Sleeps Astray	0	0	0	0	0
+10819	pl	Wesele	0	The Wedding	6.6	7	0	0	0
+31856	en	Hydrozagadka	0	Hydrozagadka	5.3	3	0	0	0
+358511	pl	Baby Bump	0	Baby Bump	6.3	3	0	0	0
+79343	fr	Les fourmis rouges	0	Les fourmis rouges	7.5	1	0	0	0
+155939	en	Pora Umiera?	0	Time to Die	5.9	4	0	0	0
+56350	de	"Jesus, Du weisst"	0	"Jesus, You Know"	4.7	3	0	0	0
+25667	pl	Ma?a Moskwa	2	Little Moscow	5	4	0	0	0
+24768	pl	Nic ?miesznego	0	Nothing Funny	7.3	7	0	0	0
+190496	en	Nienasycenie	0	Insatiability	5.1	4	0	0	0
+58133	fr	La Possibilit  d'une  le	0	Possibility of an Island	4.8	3	0	0	0
+139159	fr	  moi seule	1	Coming Home	5.9	4	0	0	0
+30019	no	Upperdog	1	Upperdog	6.9	5	3417000	0	-3417000
+78359	pl	Akademia Pana Kleksa	1	Mister Blot's Academy	6	5	0	0	0
+101801	cs	Rok ? bla	0	Year of the Devil	7.7	6	0	0	0
+36416	pl	Wszyscy jeste?my Chrystusami	0	We're All Christs	6.4	7	0	0	0
+317736	pl	Pani z przedszkola	0	Pani z przedszkola	0	0	0	0	0
+168819	pl	Weiser	0	Weiser	5.8	4	0	0	0
+108331	es	Las buenas hierbas	1	The Good Herbs	0	0	0	0	0
+291224	pl	Jak dziala jamniczek	0	How A Sausage Dog Works	7	3	0	0	0
+418757	pl	Mi?dzy nami dobrze jest	0	Mi?dzy nami dobrze jest	0	0	0	0	0
+103462	en	Grandma Lo-Fi	0	Grandma Lo-Fi	0	0	0	0	0
+38876	en	"W?atcy m ch. ?moki, Czopki i Mondzio?y"	0	"W?atcy m ch. ?moki, Czopki i Mondzio?y"	0	0	0	0	0
+369444	pl	Ostatni dzwonek	0	Ostatni dzwonek	0	0	0	0	0
+81318	pl	Uprowadzenie Agaty	0	Hijacking Agatha	6	1	0	0	0
+152912	pl	Pan Kleks w kosmosie	1	Mr. Blot in Space	0	0	0	0	0
+68802	pl	Przyjaciel weso?ego diab?a	0	Friend of the Jolly Devil	0	0	0	0	0
+80284	es	La sangre iluminada	0	Enlightened blood	8.3	2	0	0	0
+80831	en	Sang Pemimpi	0	Sang Pemimpi	6.5	2	0	0	0
+180244	en	We Don't Care About Music Anyway	0	We Don't Care About Music Anyway	6.8	3	0	0	0
+157320	pl	Historia Kina w Popielawach	0	History of Cinema in Popielawy	7.3	2	0	0	0
+167267	pl	Struktura krysztalu	0	The Structure of Crystals	6.8	4	0	0	0
+112531	pl	Ki   nie polubisz jej	1	My Name Is Ki	6.3	3	0	0	0
+81313	en	Zmruz oczy	0	Squint Your Eyes	8	2	0	0	0
+245394	en	Fry and Laurie Reunited	1	Fry and Laurie Reunited	7	2	0	0	0
+190817	fr	La Fille du 14 juillet	1	The Rendez-Vous of D j -Vu	6.2	13	0	0	0
+120831	en	Love	1	Love	7.6	5	0	0	0
+364865	en	The Jazz Loft According to W. Eugene Smith	0	The Jazz Loft According to W. Eugene Smith	0	1	0	0	0
+65507	en	Purgatory House	0	Purgatory House	6	1	0	0	0
+43656	en	13 Moons	2	13 Moons	5.8	4	0	0	0
+401408	en	"Leslie Caron, fran aise   Hollywood, am ricaine   Paris"	0	Leslie Caron: The Reluctant Star	8	1	0	0	0
+366505	es	El olivo	3	The Olive Tree	6.5	38	0	0	0
+434166	de	Es war einmal in Deutschland	1	Bye Bye Germany	8.7	3	0	0	0
+212865	en	Little Girls in Pretty Boxes	1	Little Girls in Pretty Boxes	7	1	0	0	0
+104704	fr	Le Diable au couvent	1	The Devil in a Convent	6	10	0	0	0
+435473	en	American Violence	7	American Violence	4.8	12	0	0	0
+269981	en	Twelve Angry Men	0	Twelve Angry Men	8.5	4	0	0	0
+183088	en	Megaville	1	Megaville	6	1	0	0	0
+335251	en	The Land Where the Blues Began	0	The Land Where the Blues Began	0	0	0	0	0
+430365	fr	  bras ouverts	7	With Open Arms	5.2	94	0	0	0
+50977	en	Nude on the Moon	0	Nude on the Moon	3.3	3	0	0	0
+395767	fr	La m canique de l'ombre	1	Scribe	5.8	26	0	0	0
+199887	en	Over/Under	1	Over/Under	4	2	0	0	0
+248705	fr	Les Visiteurs: La R volution	7	The Visitors: Bastille Day	4	167	25868826	0	-25868826
+90063	es	 Vampiros en La Habana!	0	Vampires in Havana	5.3	10	0	0	0
+37440	en	Monster Ark	1	Monster Ark	1.3	6	0	0	0
+36139	en	High Plains Invaders	1	High Plains Invaders	5.3	9	2000000	0	-2000000
+43585	en	Headless Horseman	1	Headless Horseman	5.7	3	0	0	0
+44918	en	Titanic II	4	Titanic 2	3.4	55	0	0	0
+63990	en	Joanna	0	Joanna	7	2	0	0	0
+28669	en	Rasputin: The Mad Monk	2	Rasputin: The Mad Monk	5.6	25	0	0	0
+188421	en	A History of Horror with Mark Gatiss	0	A History of Horror with Mark Gatiss	9	3	0	0	0
+39164	en	House of the Long Shadows	1	House of the Long Shadows	6.1	18	7500000	0	-7500000
+3104	en	Frankenstein Created Woman	2	Frankenstein Created Woman	5.9	33	0	0	0
+20776	en	Return to the Batcave: The Misadventures of Adam and Burt	1	Return to the Batcave: The Misadventures of Adam and Burt	5.8	14	0	0	0
+24568	en	Follow That Camel	1	Carry On Follow That Camel	6.1	19	0	0	0
+43085	en	Dead and Deader	5	Dead and Deader	5.8	10	0	0	0
+100671	en	The Witchmaker	0	The Witchmaker	5	3	0	0	0
+19307	en	Carry On Camping	4	Carry On Camping	6.5	25	0	0	0
+270762	en	What a Fuck Am I Doing on This Battlefield	0	What a Fuck Am I Doing on This Battlefield	0	0	0	0	0
+48959	en	Up 'n' Under	0	Up 'n' Under	5.6	6	0	0	0
+214753	en	The Airzone Solution	0	The Airzone Solution	0	0	0	0	0
+173874	en	The Many Faces of Christopher Lee	0	The Many Faces of Christopher Lee	10	1	0	0	0
+71016	en	The Return of Captain Invincible	1	The Return of Captain Invincible	6	7	5	0	-5
+151506	en	She Fought Alone	1	She Fought Alone	4.1	7	0	0	0
+43995	en	That Riviera Touch	0	That Riviera Touch	6.4	6	0	0	0
+40467	en	Dawn of the Mummy	0	Dawn of the Mummy	3.6	8	500000	0	-500000
+449696	en	The Stranger: Summoned by Shadows	0	The Stranger: Summoned by Shadows	0	0	0	0	0
+79927	en	The Pope Must Die	9	The Pope Must Die	4.2	12	0	0	0
+21251	en	Carry On England	1	Carry On England	4.8	15	0	0	0
+374764	es	C mo funcionan casi todas las cosas	0	How Most Things Work	6.8	2	0	0	0
+460135	en	LEGO DC Super Hero Girls: Brain Drain	8	LEGO DC Super Hero Girls: Brain Drain	10	2	0	0	0
+42247	en	Treasure Raiders	0	Treasure Raiders	2.2	3	0	0	0
+426272	en	Take Me	9	Take Me	6	38	0	0	0
+408624	en	A Death in the Gunj	1	A Death in the Gunj	7	5	0	0	0
+413421	hi	????????	1	Phillauri	7.1	11	0	0	0
+261871	ru	???????? ????	0	Polar Flight	0	0	0	0	0
+317389	es	Simbad e il califfo di Bagdad	0	Simbad e il califfo di Bagdad	0	0	0	0	0
+91563	en	Black Sun	0	Black Sun	8.3	3	0	0	0
+227143	uk	???? ????	0	???? ????	7	1	2	0	-2
+432789	en	The Incredible Jessica James	6	The Incredible Jessica James	6.2	37	0	0	0
+264269	ru	Vladeniye 18	0	Apartment 18	4.4	4	0	320395	320395
+182030	zh	??????????	1	The Twin Swords	5.6	4	0	0	0
+32388	zh	???	1	Golden Swallow	6.5	10	0	0	0
+434873	en	It Stains the Sands Red	8	It Stains the Sands Red	5.6	21	0	0	0
+175461	de	Lichtspiel opus I	0	Lichtspiel opus I	6.5	10	0	0	0
+175457	en	Opus II	0	Opus II	6.7	5	0	0	0
+176298	en	Opus III	0	Opus III	6.9	5	0	0	0
+184402	de	Opus IV	0	Opus IV	6.9	4	0	0	0
+370213	fa	Sonita	0	Sonita	6	1	0	0	0
+99104	en	Bloodletting	0	Bloodletting	5	1	10000	0	-10000
+445126	en	Can't Buy My Love	1	Can't Buy My Love	7	7	0	0	0
+401687	en	Hopeless Romantic	0	Hopeless Romantic	4.3	3	0	0	0
+200066	en	Il frullo del passero	0	The Sparrow's Fluttering	0	0	0	0	0
+273279	fr	La peau de chagrin	1	The Skin of Sorrow	7	1	0	0	0
+97797	ru	??????? ??????	0	Dead Daughters	4.9	5	1200000	0	-1200000
+149946	ru	??? ? ?????	0	Two in One	1	1	0	0	0
+61385	ru	??????????	1	The Tuner	6.9	7	0	0	0
+468707	fi	Lauri M ntyvaaran tuuheet ripset	0	Thick Lashes of Lauri M ntyvaara	8	1	1254040	0	-1254040
+280422	ru	??? ? ?????	0	All at Once	6	4	750000	3	-749997
+38326	ru	????? ????	1	Yuri's Day	6.5	4	0	0	0
+240789	ru	????	0	The Miracle	6.3	3	0	50656	50656
+293654	ru	??????????	1	Corporate Event	3.5	4	2000000	0	-2000000
+64197	ru	Puteshestvie s domashnimi zhivotnymi	1	Travelling with Pets	6	5	0	0	0
+102363	ru	Beduin	1	Bedouin	4	5	0	0	0
+92771	ru	????	0	Daddy	5.3	3	0	0	0
+98604	ru	Zolushka	1	Cinderella	4.6	6	0	0	0
+97672	ru	Samoubiytsy	0	Suicides	4.6	4	0	0	0
+100152	ru	????	0	Mars	5	2	2000000	0	-2000000
+62757	en	Dikari	1	Savages	5.8	6	800000	1328612	528612
+449131	ru	Aprel	0	Aprel	6	1	0	0	0
+61966	en	Kacheli	1	Swing	4	2	0	0	0
+63281	en	??? ????ff	0	Pro Lyuboff	4	3	2000000	1268793	-731207
+70965	en	????	1	Kuka	6.3	7	0	0	0
+75608	en	Dead Birds	0	Dead Birds	5.3	2	0	0	0
+275331	en	The Hunters	0	The Hunters	5	1	0	0	0
+282308	en	Rigadin peintre cubiste	0	"Whiffles, Cubic Artist"	0	0	0	0	0
+461297	en	Cop and a Half: New Recruit	1	Cop and a Half: New Recruit	6	1	0	0	0
+258907	en	Dyketactics	0	Dyketactics	8	1	0	0	0
+127762	fr	Baignade en Mer	0	Baignade en Mer	5.3	12	0	0	0
+18098	en	Arabian Nights	2	Arabian Nights	6.9	21	0	0	0
+52103	zh	Xiao Wu	0	Pickpocket	7.2	13	0	0	0
+63898	ru	????????	0	Antidur	1	1	5000000	1413000	-3587000
+174271	en	The Fortunes and Misfortunes of Moll Flanders	1	The Fortunes and Misfortunes of Moll Flanders	5.8	8	0	0	0
+42652	ru	Uznik Zamka If	0	The Prisoner of If Castle	5	3	0	0	0
+143117	ru	"Chyornaya Roza - Emblema Pechali, Krasnaya Roza - Emblema Lyubvi"	1	"A Black Rose Is an Emblem of Sorrow, a Red Rose an Emblem of Love"	6.5	4	0	0	0
+65416	en	An American Vampire Story	0	An American Vampire Story	4.5	4	0	0	0
+365432	en	The Sublet	1	The Sublet	6.5	4	0	0	0
+45029	en	Fit to Kill	1	Fit to Kill	5	7	0	0	0
+36680	en	TechnoCalyps	0	TechnoCalyps	5	1	0	0	0
+222872	en	Starquest II	1	Starquest II	2	1	0	0	0
+257472	en	Rivers of Sand	0	Rivers of Sand	0	0	0	0	0
+323132	en	Altar of Fire	0	Altar of Fire	0	0	0	0	0
+5589	cs	  len? smutn  princezna	0	  len? smutn  princezna	6.1	4	0	0	0
+325439	en	Le Meraviglie di Aladino	0	The Wonders of Aladdin	0	0	0	0	0
+63266	en	Fobos. Klub Strakha	1	Phobos. Fear Kills	3	2	0	0	0
+45527	en	The Final Storm	1	The Final Storm	3.7	11	0	0	0
+455661	en	In a Heartbeat	21	In a Heartbeat	8.3	146	0	0	0
+327237	nl	"Bloed, Zweet en Tranen"	1	"Blood, Sweat and Tears"	6.8	11	0	0	0
+84710	en	Jungle Woman	0	Jungle Woman	5.8	2	0	0	0
+39562	en	To Be Fat Like Me	1	To Be Fat Like Me	5	12	0	0	0
+14008	en	Cadet Kelly	4	Cadet Kelly	5.2	145	0	0	0
+44330	en	Le tripot clandestin	0	The Scheming Gambler's Paradise	5	3	0	0	0
+49279	fr	L'Homme   la t te de caoutchouc	2	The Man with the Rubber Head	7.6	29	0	0	0
+44333	fr	Les cartes vivantes	0	The Living Playing Cards	6.1	8	0	0	0
+49277	en	Les affiches en goguette	0	The Hilarious Posters	4.5	2	0	0	0
+49271	en	Le locataire diabolique	1	The Devilish Tenant	6.7	12	0	0	0
+44324	fr	Le Roi du maquillage	0	The Untameable Whiskers	6	6	0	0	0
+122036	fr	Les Transmutations imperceptibles	0	The Imperceptable Transmutations	5	2	0	0	0
+14885	en	Pooh's Heffalump Halloween Movie	3	Pooh's Heffalump Halloween Movie	5.4	7	0	0	0
+49280	fr	L'Homme orchestre	1	The One-Man Band	6.5	22	0	0	0
+106807	fr	Nouvelles luttes extravagantes	0	The Fat and Lean Wrestling Match	6.5	6	0	0	0
+276895	en	Deep Hearts	0	Deep Hearts	0	0	0	0	0
+404604	hi	Maa	2	Mom	6.6	14	0	0	0
+420346	en	The Morning After	0	The Morning After	4	2	0	0	0
+67179	it	San Michele aveva un gallo	0	St. Michael Had a Rooster	6	3	0	0	0
+84419	en	House of Horrors	0	House of Horrors	6.3	8	0	0	0
+390959	en	Shadow of the Blair Witch	0	Shadow of the Blair Witch	7	2	0	0	0
+289923	en	The Burkittsville 7	0	The Burkittsville 7	7	1	0	0	0
+222848	en	Caged Heat 3000	1	Caged Heat 3000	3.5	1	0	0	0
+30840	en	Robin Hood	6	Robin Hood	5.7	26	0	0	0
+439050	fa	?? ????	0	Subdue	4	1	0	0	0
+111109	tl	Siglo ng Pagluluwal	0	Century of Birthing	9	3	0	0	0
+67758	en	Betrayal	1	Betrayal	3.8	6	0	0	0
+227506	en	Satana likuyushchiy	0	Satan Triumphant	0	0	0	0	0
+461257	en	Queerama	0	Queerama	0	0	0	0	0
